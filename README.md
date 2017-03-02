@@ -1,3 +1,3 @@
 # Adam Pearce
 
-I am doing a msaters thesis on Reaction Kinetics of Acid Generating Rocks
+I am doing a masters thesis on Reaction Kinetics of Acid Generating Rocks
